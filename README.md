@@ -1,2 +1,2 @@
-# schornoivan.github.io
+# blizardinka.github.io
 personal website
